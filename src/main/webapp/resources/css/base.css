@@ -1,6 +1,49 @@
-h1 {
-	color: red;
-}
 body {
-	background-color: #ffffe6;
+	background-color: #fffdf9;
+}
+.small-review{
+	border: 1px solid lightgrey;
+
+}
+.small-review-td{
+	border: 1px solid lightgrey;
+	padding: 2px;
+}
+.table.table-bordered{
+	border-collapse: separate;
+	border-spacing: 3px;
+}
+.table.table-bordered td{
+	padding: 3px;
+}
+table {
+/* 	text-align: center; */
+	border-radius: 4px;
+}
+.glyphicon {
+	font-size: 90%;
+}
+.mail-link {
+	color: green;
+}
+.sorter {
+	padding: 2px 0px 2px;
+	background-color:  #0099e6;
+	border: 2px solid #005580;
+	border-radius: 2px;
+	color: white;
+	font-size: 75%;
+}
+.appraisal-text {
+	display: inline-block;
+	padding: 3px;
+}
+.default-select {
+	color: green;
+}
+.color-button {
+	display: none;
+}
+#colorTrickHide {
+	display: none;
 }
